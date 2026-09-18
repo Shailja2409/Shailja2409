@@ -1,4 +1,4 @@
-## Hi👋, Shailja there
+## HELLO👋 Shailja there
 
 <!--
 **Shailja2409/Shailja2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
