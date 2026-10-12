@@ -6,33 +6,39 @@
 
 <p align="center"> <a href="https://github.com/Shailja2409"></a> <img src="https://img.shields.io/badge/Always-Learning-9ECE6A?style=for-the-badge" alt="Always learning" /> </p>
 
------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🌟 About Me
-👩‍🎓 I'm a Computer Science student.
-💻 I'm an aspiring developer exploring programming and software development.
-🌱 I'm focused on learning new technologies and continuously improving my skills.
-🛠️ I enjoy exploring development tools and discovering new technologies.
-🚀 I'm working toward building practical projects and growing as a developer.
+<ul>
+ <li> 👩‍🎓 I'm a Computer Science student.
+ <li> 💻 I'm an aspiring developer exploring programming and software development.
+ <li> 🌱 I'm focused on learning new technologies and continuously improving my skills.
+ <li> 🛠️ I enjoy exploring development tools and discovering new technologies.
+ <li> 🚀 I'm working toward building practical projects and growing as a developer.
+</ul>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,mysql&theme=dark" alt="Programming languages and web technologies" /> </p>
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools" /> </p>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Tech Stack & Tools
 💻 Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="C++, Java, Python, JavaScript" /> </p>
 
-C++ — Programming fundamentals and problem-solving.
-Java — Object-oriented programming.
-Python — Programming, scripting, and automation.
-JavaScript — Programming for interactive web applications.
+<ul>
+  <li> C++ — Programming fundamentals and problem-solving. </li>
+  <li> Java — Object-oriented programming. </li>
+  <li> Python — Programming, scripting, and automation. </li>
+  <li> JavaScript — Programming for interactive web applications. </li>
+</ul>
+
 🌐 Web Development
 <p> <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" /> </p>
 
-HTML5 — Structures web pages.
-CSS3 — Styles web pages and creates responsive layouts.
-React — Builds reusable UI components and interactive interfaces.
+<ul>
+  <li> HTML5 — Structures web pages. </li>
+  <li> CSS3 — Styles web pages and creates responsive layouts. </li>
+  <li> React — Builds reusable UI components and interactive interfaces. </li>
+</ul>
+
 🗄️ Database
 <p> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> </p>
 
@@ -40,22 +46,29 @@ MySQL — Relational database management and SQL queries.
 🔧 Development Tools & Version Control
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code" /> </p>
 
-Git — Tracks code changes and manages versions.
-GitHub — Hosts repositories and supports collaboration.
-Visual Studio Code — Code editor for development.
+<ul>
+  <li> Git — Tracks code changes and manages versions. </li>
+  <li> GitHub — Hosts repositories and supports collaboration. </li>
+  <li> Visual Studio Code — Code editor for development. </li>
+</ul>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 GitHub Analytics
 
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailja2409&layout=compact&theme=tokyonight&hideborder=true&langs_count=8" alt="Most used programming languages" /> </p>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🎯 Goals
-🌱 Keep learning and exploring new technologies.
-💡 Improve problem-solving and programming skills.
-🧩 Practice by building real-world projects.
-🚀 Keep growing, one step at a time.
-🤝 Connect With Me
+<ul>
+  <li> 🌱 Keep learning and exploring new technologies. </li>
+  <li> 💡 Improve problem-solving and programming skills. </li>
+  <li> 🧩 Practice by building real-world projects. </li>
+  <li> 🚀 Keep growing, one step at a time. </li>
+  <li> 🤝 Connect With Me </li>
+</ul>
 
-<p align="center"> <a href="https://github.com/Shailja2409"> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Visit my GitHub" /> </a> </p>
+<p align="center"> <a href="https://github.com/Shailja2409"> <br> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Visit my GitHub" /> </a> </p>
 
 <p align="center"> ✨ <i>"Keep learning, keep building, and never stop growing!"</i> ✨ </p>
