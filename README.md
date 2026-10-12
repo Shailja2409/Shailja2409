@@ -4,21 +4,45 @@
 
 <p align="center"> 💻 Aspiring Developer &nbsp;|&nbsp; 🌱 Lifelong Learner &nbsp;|&nbsp; ✨ Tech Enthusiast </p>
 
-<p align="center"> <a href="https://github.com/Shailja2409"> <img src="https://img.shields.io/badge/GitHub-Shailja2409-181717?style=for-the-badge&logo=github" alt="GitHub profile" /> </a> <img src="https://img.shields.io/badge/Theme-Tokyo%20Night-7AA2F7?style=for-the-badge" alt="Tokyo Night theme" /> <img src="https://img.shields.io/badge/Always-Learning-9ECE6A?style=for-the-badge" alt="Always learning" /> </p>
+<p align="center"> <a href="https://github.com/Shailja2409"></a> <img src="https://img.shields.io/badge/Always-Learning-9ECE6A?style=for-the-badge" alt="Always learning" /> </p>
+
+-----------------------------------------------------------------------------------------------------------------
 
 🌟 About Me
-👋 Hi, I'm a Computer Science Student.
+👩‍🎓 I'm a Computer Science student.
 💻 I'm an aspiring developer exploring programming and software development.
-🌱 I'm focused on learning new technologies and improving my skills.
-🛠️ I enjoy exploring tools and technologies across software development.
-🚀 I'm working toward building projects and growing as a developer.
-🛠️ Tech Stack & Tools
+🌱 I'm focused on learning new technologies and continuously improving my skills.
+🛠️ I enjoy exploring development tools and discovering new technologies.
+🚀 I'm working toward building practical projects and growing as a developer.
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,react,mysql&theme=dark" alt="Programming languages and web technologies" /> </p>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools" /> </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> </p>
+🛠️ Tech Stack & Tools
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="C++, Java, Python, JavaScript" /> </p>
+
+C++ — Programming fundamentals and problem-solving.
+Java — Object-oriented programming.
+Python — Programming, scripting, and automation.
+JavaScript — Programming for interactive web applications.
+🌐 Web Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" /> </p>
+
+HTML5 — Structures web pages.
+CSS3 — Styles web pages and creates responsive layouts.
+React — Builds reusable UI components and interactive interfaces.
+🗄️ Database
+<p> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> </p>
+
+MySQL — Relational database management and SQL queries.
+🔧 Development Tools & Version Control
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code" /> </p>
+
+Git — Tracks code changes and manages versions.
+GitHub — Hosts repositories and supports collaboration.
+Visual Studio Code — Code editor for development.
 
 📊 GitHub Analytics
 
