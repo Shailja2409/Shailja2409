@@ -69,6 +69,8 @@ MySQL — Relational database management and SQL queries.
   <li> 🤝 Connect With Me </li>
 </ul>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center"> <a href="https://github.com/Shailja2409"> <br> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Visit my GitHub" /> </a> </p>
 
 <p align="center"> ✨ <i>"Keep learning, keep building, and never stop growing!"</i> ✨ </p>
