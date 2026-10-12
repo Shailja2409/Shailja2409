@@ -22,7 +22,7 @@
 
 📊 GitHub Analytics
 
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shailja2409&showicons=true&theme=tokyonight&hideborder=true&rankicon=github" alt="GitHub statistics" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailja2409&layout=compact&theme=tokyonight&hideborder=true&langs_count=8" alt="Most used programming languages" /> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailja2409&layout=compact&theme=tokyonight&hideborder=true&langs_count=8" alt="Most used programming languages" /> </p>
 
 
 🎯 Goals
@@ -35,5 +35,3 @@
 <p align="center"> <a href="https://github.com/Shailja2409"> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Visit my GitHub" /> </a> </p>
 
 <p align="center"> ✨ <i>"Keep learning, keep building, and never stop growing!"</i> ✨ </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shailja2409&style=for-the-badge&color=7AA2F7" alt="Profile visitor counter" /> </p>
