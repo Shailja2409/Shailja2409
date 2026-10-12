@@ -8,7 +8,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🌟 About Me
+<b> 🌟 About Me </b>
 <ul>
  <li> 👩‍🎓 I'm a Computer Science student.
  <li> 💻 I'm an aspiring developer exploring programming and software development.
@@ -19,8 +19,9 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tech Stack & Tools <br>
-💻 Programming Languages
+<h1> 🛠️ Tech Stack & Tools </h1> <br>
+
+<b> 💻 Programming Languages </b>
 <p> <img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="C++, Java, Python, JavaScript" /> </p>
 
 <ul>
@@ -30,7 +31,7 @@
   <li> JavaScript — Programming for interactive web applications. </li>
 </ul>
 
-🌐 Web Development
+<b> 🌐 Web Development </b>
 <p> <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" /> </p>
 
 <ul>
@@ -39,10 +40,10 @@
   <li> React — Builds reusable UI components and interactive interfaces. </li>
 </ul>
 
-🗄️ Database
+<b> 🗄️ Database </b>
 <p> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> </p>
 
-MySQL — Relational database management and SQL queries.
+MySQL — Relational database management and SQL queries. <br>
 🔧 Development Tools & Version Control
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code" /> </p>
 
