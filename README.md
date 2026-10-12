@@ -1,7 +1,13 @@
-## HELLO👋 Shailja there
+## Hey there! 👋 I'm Shailja
 
-<!--
-**Shailja2409/Shailja2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Developer | 🌱 Lifelong Learner
+✨ Exploring new technologies and building cool projects.
+
+🛠️ Tech Stack
+
+- 💻 Languages: C++, Java, Python, Javascript
+- 🌐 Web: HTML, CSS, JavaScript, React
+- 🔧 Tools: Git, GitHub, VS Code
 
 Here are some ideas to get you started:
 
