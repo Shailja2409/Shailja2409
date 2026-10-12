@@ -19,7 +19,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tech Stack & Tools
+🛠️ Tech Stack & Tools <br>
 💻 Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="C++, Java, Python, JavaScript" /> </p>
 
