@@ -8,7 +8,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1> 🌟 About Me </h1>
+<h2> 🌟 About Me </h2>
 <ul>
  <li> 👩‍🎓 I'm a Computer Science student.
  <li> 💻 I'm an aspiring developer exploring programming and software development.
@@ -55,13 +55,13 @@ MySQL — Relational database management and SQL queries. <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1>📊 GitHub Analytics </h1>
+<h2>📊 GitHub Analytics </h2>
 
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shailja2409&layout=compact&theme=tokyonight&hideborder=true&langs_count=8" alt="Most used programming languages" /> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h1>🎯 Goals </h1>
+<h2>🎯 Goals </h2>
 <ul>
   <li> 🌱 Keep learning and exploring new technologies. </li>
   <li> 💡 Improve problem-solving and programming skills. </li>
